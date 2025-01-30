@@ -43,7 +43,7 @@ JVM_RDEPENDS:x86_64 = " \
   libxi (>= 1.8) \
   libxrender (>= 0.9) \
   libxtst (>= 1.2) \
-  zlib (>= 1.2) \
+  zlib-intel (>= 1.2) \
 "
 
 RDEPENDS:${PN} = "${JVM_RDEPENDS}"
