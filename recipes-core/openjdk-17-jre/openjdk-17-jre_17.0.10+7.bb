@@ -13,11 +13,6 @@ JVM_RDEPENDS:aarch64 = " \
   alsa-lib (>= 0.9) \
   freetype (>= 2.13) \
   glibc (>= 2.17) \
-  libx11 (>= 1.7) \
-  libxext (>= 1.3) \
-  libxi (>= 1.8) \
-  libxrender (>= 0.9) \
-  libxtst (>= 1.2) \
   zlib (>= 1.2) \
 "
 JVM_CHECKSUM:arm = "0378bdf6769632b182b27ba4e53b17eaefefdbafa3845c15e1bd88a5aeec8442"
